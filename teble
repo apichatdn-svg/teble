@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>ตารางเพื่อน</title>
+</head>
+
+<body>
+
+<strong>เพื่อนของฉัน 603 TOP 5</strong>
+<br><br>
+
+<table border="1">
+    <tr>
+        <th>ลำดับ</th>
+        <th>ชื่อ - นามสกุล</th>
+        <th>ชื่อเล่น</th>
+        <th>สีที่ชอบ</th>
+        <th>อาหารที่ชอบ</th>
+        <th>ภาพถ่าย</th>
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td>เมธาวี ไชยแก้ว</td>
+        <td>หล้า</td>
+        <td style="background-color:#00CCFF;">สีฟ้า</td>
+        <td>ผัดไทย</td>
+        <td>
+            <img src="image/may.jpg" width="72" height="96" alt="เมธาวี">
+        </td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>วุฒิกร คำแก้ว</td>
+        <td>บอย</td>
+        <td style="background-color:brown;">สีน้ำตาล</td>
+        <td>ข้าวมันไก่</td>
+        <td>
+            <img src="image/boy.jpg" width="72" height="96" alt="บอย">
+        </td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>นิตยา หงส์</td>
+        <td>ฟาง</td>
+        <td style="background-color:pink;">สีชมพู</td>
+        <td>โดนัท</td>
+        <td>
+            <img src="image/fang.jpg" width="72" height="96" alt="ฟาง">
+        </td>
+    </tr>
+
+    <tr>
+        <td>4</td>
+        <td>กิตติศักดิ์ ทาระวะ</td>
+        <td>อาโป</td>
+        <td style="background-color:yellow;">สีเหลือง</td>
+        <td>ราดหน้า</td>
+        <td>
+            <img src="image/apo.jpg" width="72" height="96" alt="อาโป">
+        </td>
+    </tr>
+
+    <tr>
+        <td>5</td>
+        <td>แจ่มศรี บุตรต๊ะ</td>
+        <td>แจ่ม</td>
+        <td style="background-color:#A020F0; color:white;">สีม่วง</td>
+        <td>ก๋วยเตี๋ยว</td>
+        <td>
+            <img src="image/jam.jpg" width="72" height="96" alt="แจ่ม">
+        </td>
+    </tr>
+
+</table>
+
+</body>
+</html>
